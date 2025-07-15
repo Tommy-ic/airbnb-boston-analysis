@@ -1,0 +1,201 @@
+id,name,host_id,host_name,neighbourhood,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,availability_365
+1,Listing 1,1102,David,Dorchester,Private room,302,5,198,2023-03-10,4.44,86
+2,Listing 2,1435,Eva,South End,Private room,229,5,80,2023-11-08,4.78,11
+3,Listing 3,1860,Eva,South End,Entire home/apt,256,3,83,2023-10-16,4.31,24
+4,Listing 4,1270,Charlie,North End,Entire home/apt,352,11,104,2023-09-07,4.05,300
+5,Listing 5,1106,Eva,South End,Entire home/apt,176,14,176,2023-02-05,3.28,242
+6,Listing 6,1071,David,Back Bay,Entire home/apt,105,10,147,2023-08-27,2.75,121
+7,Listing 7,1700,Eva,Dorchester,Entire home/apt,263,14,117,2023-05-28,0.43,146
+8,Listing 8,1020,Charlie,Beacon Hill,Private room,63,4,85,2023-08-15,2.04,54
+9,Listing 9,1614,Charlie,South End,Entire home/apt,77,9,62,2023-09-01,1.86,237
+10,Listing 10,1121,David,Back Bay,Entire home/apt,127,13,188,2023-12-03,1.3,355
+11,Listing 11,1466,Bob,Beacon Hill,Entire home/apt,265,10,103,2023-12-31,3.62,172
+12,Listing 12,1214,Bob,Dorchester,Private room,435,9,48,2023-07-20,2.48,220
+13,Listing 13,1330,Eva,Beacon Hill,Private room,414,2,70,2023-06-03,0.41,118
+14,Listing 14,1458,Alice,Back Bay,Entire home/apt,203,8,0,2023-03-14,1.1,308
+15,Listing 15,1087,Eva,Beacon Hill,Entire home/apt,63,8,140,2023-07-20,3.42,182
+16,Listing 16,1372,David,North End,Private room,236,7,178,2023-10-23,0.38,287
+17,Listing 17,1099,David,Beacon Hill,Entire home/apt,361,8,122,2023-01-17,4.26,306
+18,Listing 18,1871,David,South End,Private room,420,14,183,2023-05-09,2.48,299
+19,Listing 19,1663,David,South End,Private room,56,3,61,2023-08-05,2.4,81
+20,Listing 20,1130,David,North End,Entire home/apt,52,13,31,2023-03-02,2.96,210
+21,Listing 21,1661,Charlie,Back Bay,Entire home/apt,160,6,157,2023-04-14,4.12,149
+22,Listing 22,1308,Bob,South End,Shared room,456,1,28,2023-02-11,1.74,36
+23,Listing 23,1769,David,Dorchester,Entire home/apt,287,7,48,2023-01-25,3.39,351
+24,Listing 24,1343,Alice,South End,Entire home/apt,412,1,172,2023-02-08,2.83,311
+25,Listing 25,1491,Alice,South End,Private room,288,9,29,2023-10-18,1.34,360
+26,Listing 26,1413,Alice,Back Bay,Private room,323,1,143,2023-05-11,4.39,58
+27,Listing 27,1805,Alice,Beacon Hill,Shared room,343,1,167,2023-08-17,3.99,130
+28,Listing 28,1385,Charlie,South End,Private room,276,7,18,2023-04-18,3.29,201
+29,Listing 29,1191,Alice,North End,Entire home/apt,420,2,17,2023-06-21,4.25,242
+30,Listing 30,1955,David,Beacon Hill,Entire home/apt,64,14,0,2023-04-12,4.34,34
+31,Listing 31,1276,Eva,Dorchester,Private room,241,5,77,2023-12-20,3.54,92
+32,Listing 32,1160,Alice,Back Bay,Entire home/apt,168,8,114,2023-01-12,4.19,206
+33,Listing 33,1459,Charlie,Dorchester,Entire home/apt,77,8,174,2023-10-02,3.49,352
+34,Listing 34,1313,Charlie,Beacon Hill,Private room,251,3,193,2023-04-11,3.4,331
+35,Listing 35,1021,Alice,Beacon Hill,Entire home/apt,88,7,112,2023-02-13,3.09,304
+36,Listing 36,1252,Eva,Beacon Hill,Entire home/apt,490,3,113,2023-11-01,3.76,349
+37,Listing 37,1747,Alice,Dorchester,Entire home/apt,322,6,165,2023-01-17,0.79,212
+38,Listing 38,1856,Charlie,Beacon Hill,Entire home/apt,280,6,178,2023-11-26,4.4,158
+39,Listing 39,1560,Bob,Dorchester,Entire home/apt,135,3,62,2023-02-26,4.36,23
+40,Listing 40,1474,David,Beacon Hill,Entire home/apt,175,7,131,2023-11-07,0.15,292
+41,Listing 41,1058,Charlie,North End,Entire home/apt,349,3,128,2023-10-30,4.13,3
+42,Listing 42,1510,Alice,Beacon Hill,Private room,74,8,7,2023-01-12,0.64,219
+43,Listing 43,1681,David,Dorchester,Private room,194,10,156,2023-11-14,1.68,363
+44,Listing 44,1475,Alice,South End,Entire home/apt,62,4,54,2023-03-21,3.72,19
+45,Listing 45,1699,Alice,Beacon Hill,Shared room,261,13,102,2023-08-04,0.8,151
+46,Listing 46,1975,Bob,South End,Entire home/apt,74,1,130,2023-12-05,4.09,49
+47,Listing 47,1782,David,North End,Entire home/apt,117,4,31,2023-09-21,4.16,176
+48,Listing 48,1189,David,Back Bay,Private room,443,14,9,2023-05-29,2.54,95
+49,Listing 49,1957,Bob,North End,Entire home/apt,116,7,109,2023-03-22,0.03,104
+50,Listing 50,1686,Charlie,Beacon Hill,Shared room,282,11,161,2023-08-03,1.44,249
+51,Listing 51,1957,Alice,South End,Entire home/apt,158,4,123,2023-07-17,3.08,116
+52,Listing 52,1562,Eva,South End,Shared room,195,13,86,2023-07-19,4.91,353
+53,Listing 53,1875,Alice,Dorchester,Entire home/apt,160,6,54,2023-01-25,3.16,227
+54,Listing 54,1566,Alice,South End,Private room,277,9,31,2023-03-30,1.3,65
+55,Listing 55,1243,Charlie,Dorchester,Entire home/apt,160,1,177,2023-09-25,3.17,334
+56,Listing 56,1831,Alice,Back Bay,Shared room,83,13,134,2023-05-23,2.7,261
+57,Listing 57,1504,Bob,Beacon Hill,Entire home/apt,160,5,92,2023-02-28,3.9,294
+58,Listing 58,1130,Bob,Dorchester,Entire home/apt,313,11,7,2023-12-31,0.53,242
+59,Listing 59,1484,David,Back Bay,Shared room,473,7,64,2023-01-26,3.81,185
+60,Listing 60,1818,Eva,South End,Entire home/apt,418,1,56,2023-02-16,2.71,245
+61,Listing 61,1646,Alice,South End,Private room,285,14,66,2023-10-15,4.81,124
+62,Listing 62,1020,Alice,Back Bay,Private room,132,4,186,2023-09-23,1.71,267
+63,Listing 63,1840,Charlie,South End,Entire home/apt,91,6,71,2023-01-16,3.16,130
+64,Listing 64,1166,Bob,Back Bay,Private room,474,2,53,2023-07-18,4.66,236
+65,Listing 65,1273,Eva,Dorchester,Entire home/apt,150,10,66,2023-10-09,0.51,17
+66,Listing 66,1387,David,Dorchester,Private room,55,5,50,2023-03-27,4.69,39
+67,Listing 67,1600,Bob,Back Bay,Entire home/apt,229,11,96,2023-09-07,3.44,20
+68,Listing 68,1315,David,Dorchester,Entire home/apt,331,10,91,2023-09-27,0.34,224
+69,Listing 69,1013,Charlie,Dorchester,Shared room,369,1,7,2023-12-01,1.5,354
+70,Listing 70,1241,Charlie,Dorchester,Private room,275,6,161,2023-04-27,3.54,281
+71,Listing 71,1776,Alice,North End,Entire home/apt,492,6,34,2023-01-07,0.34,7
+72,Listing 72,1345,Eva,Beacon Hill,Private room,489,13,95,2023-05-17,2.91,99
+73,Listing 73,1564,David,South End,Entire home/apt,364,4,87,2023-06-25,1.73,239
+74,Listing 74,1897,Bob,North End,Entire home/apt,414,13,77,2023-11-24,3.1,86
+75,Listing 75,1339,Charlie,Dorchester,Entire home/apt,278,8,31,2023-11-11,0.23,297
+76,Listing 76,1091,Alice,Back Bay,Entire home/apt,426,4,119,2023-08-03,4.36,13
+77,Listing 77,1366,Alice,Dorchester,Entire home/apt,338,8,45,2023-03-23,4.87,333
+78,Listing 78,1955,David,Beacon Hill,Entire home/apt,486,13,143,2023-08-11,4.84,1
+79,Listing 79,1454,Charlie,Dorchester,Shared room,199,8,195,2023-04-13,3.75,292
+80,Listing 80,1427,Eva,Back Bay,Shared room,326,5,164,2023-09-30,0.65,324
+81,Listing 81,1508,Charlie,Beacon Hill,Private room,247,13,181,2023-01-14,3.79,40
+82,Listing 82,1775,David,Dorchester,Entire home/apt,119,4,141,2023-06-08,0.12,317
+83,Listing 83,1942,David,Beacon Hill,Entire home/apt,161,12,54,2023-06-01,0.11,315
+84,Listing 84,1034,Charlie,South End,Private room,53,13,175,2023-04-18,1.62,110
+85,Listing 85,1205,David,South End,Private room,399,2,6,2023-07-07,2.44,13
+86,Listing 86,1080,Charlie,Dorchester,Entire home/apt,380,11,73,2023-10-28,3.85,230
+87,Listing 87,1931,Bob,Beacon Hill,Private room,495,3,6,2023-04-08,3.42,83
+88,Listing 88,1561,Charlie,Back Bay,Private room,367,3,160,2023-05-11,2.23,129
+89,Listing 89,1871,Charlie,Dorchester,Private room,399,4,150,2023-10-20,1.37,230
+90,Listing 90,1387,David,South End,Private room,144,4,84,2023-06-20,4.99,325
+91,Listing 91,1001,David,South End,Private room,201,10,146,2023-07-02,2.13,144
+92,Listing 92,1389,Alice,Dorchester,Entire home/apt,360,11,111,2023-12-30,2.26,344
+93,Listing 93,1565,Alice,Beacon Hill,Private room,186,11,124,2023-02-08,0.82,27
+94,Listing 94,1105,Bob,South End,Private room,296,5,146,2023-01-15,3.97,65
+95,Listing 95,1771,Alice,Beacon Hill,Entire home/apt,436,4,35,2023-01-04,3.47,162
+96,Listing 96,1821,Charlie,South End,Entire home/apt,292,11,28,2023-12-15,1.1,228
+97,Listing 97,1476,David,South End,Entire home/apt,80,14,187,2023-07-29,0.41,260
+98,Listing 98,1702,Alice,North End,Private room,89,10,81,2023-06-10,3.4,163
+99,Listing 99,1401,Alice,South End,Shared room,278,8,1,2023-01-16,3.27,300
+100,Listing 100,1729,Bob,Back Bay,Entire home/apt,85,6,128,2023-04-18,1.37,302
+101,Listing 101,1555,Bob,Dorchester,Entire home/apt,457,6,46,2023-11-07,4.75,286
+102,Listing 102,1161,Charlie,Dorchester,Entire home/apt,272,8,196,2023-08-15,0.76,9
+103,Listing 103,1201,David,Beacon Hill,Shared room,55,7,147,2023-06-19,2.16,194
+104,Listing 104,1957,Bob,South End,Private room,371,10,10,2023-02-03,4.72,117
+105,Listing 105,1995,Alice,Back Bay,Private room,269,14,129,2023-09-08,2.1,269
+106,Listing 106,1269,David,Beacon Hill,Entire home/apt,124,11,194,2023-09-04,3.19,79
+107,Listing 107,1862,David,North End,Entire home/apt,53,12,118,2023-09-26,1.99,92
+108,Listing 108,1815,Alice,Beacon Hill,Entire home/apt,384,10,139,2023-05-21,1.37,265
+109,Listing 109,1270,Bob,Beacon Hill,Entire home/apt,183,13,19,2023-10-01,4.92,331
+110,Listing 110,1455,Alice,South End,Private room,167,8,4,2023-04-06,2.05,349
+111,Listing 111,1461,David,North End,Private room,418,14,36,2023-08-15,4.47,360
+112,Listing 112,1726,Eva,Beacon Hill,Shared room,143,2,165,2023-02-08,1.15,256
+113,Listing 113,1251,Eva,Back Bay,Shared room,484,9,136,2023-10-29,1.07,132
+114,Listing 114,1701,Charlie,Back Bay,Entire home/apt,111,1,52,2023-01-29,0.16,275
+115,Listing 115,1295,Alice,Dorchester,Private room,490,8,171,2023-11-14,3.26,263
+116,Listing 116,1724,Alice,North End,Private room,243,12,98,2023-09-02,1.84,170
+117,Listing 117,1719,Charlie,North End,Private room,384,11,85,2023-08-24,4.32,0
+118,Listing 118,1748,Charlie,Dorchester,Entire home/apt,252,12,107,2023-07-04,2.37,312
+119,Listing 119,1337,Charlie,Beacon Hill,Entire home/apt,441,12,23,2023-09-29,4.84,63
+120,Listing 120,1878,David,North End,Entire home/apt,75,4,80,2023-08-24,0.93,283
+121,Listing 121,1052,Alice,Back Bay,Shared room,484,4,157,2023-08-27,4.34,120
+122,Listing 122,1791,David,Back Bay,Private room,222,5,119,2023-09-23,3.88,106
+123,Listing 123,1921,Charlie,South End,Entire home/apt,349,8,58,2023-12-25,3.85,174
+124,Listing 124,1216,Alice,North End,Private room,182,5,127,2023-12-06,4.22,203
+125,Listing 125,1763,David,Beacon Hill,Private room,375,8,113,2023-03-06,3.81,164
+126,Listing 126,1187,David,Dorchester,Entire home/apt,459,10,114,2023-06-26,3.13,304
+127,Listing 127,1379,Charlie,Dorchester,Entire home/apt,167,1,13,2023-01-03,0.66,119
+128,Listing 128,1492,Alice,Beacon Hill,Private room,373,12,8,2023-05-22,0.16,43
+129,Listing 129,1040,Charlie,South End,Entire home/apt,324,10,39,2023-06-07,4.6,311
+130,Listing 130,1156,Alice,Dorchester,Private room,261,9,193,2023-11-20,3.08,155
+131,Listing 131,1014,Eva,North End,Entire home/apt,274,6,24,2023-05-26,3.98,206
+132,Listing 132,1812,Bob,South End,Private room,69,3,102,2023-10-20,2.41,107
+133,Listing 133,1064,Bob,North End,Entire home/apt,162,13,21,2023-06-02,0.59,250
+134,Listing 134,1856,Bob,Back Bay,Entire home/apt,189,14,3,2023-07-12,0.63,333
+135,Listing 135,1838,Charlie,South End,Private room,96,8,153,2023-03-14,3.43,129
+136,Listing 136,1520,Eva,Dorchester,Entire home/apt,50,9,185,2023-11-01,2.15,292
+137,Listing 137,1343,Alice,South End,Entire home/apt,139,6,28,2023-12-10,1.0,19
+138,Listing 138,1128,David,South End,Entire home/apt,191,11,108,2023-05-20,2.46,281
+139,Listing 139,1647,Alice,South End,Private room,369,7,97,2023-07-06,0.32,284
+140,Listing 140,1471,David,South End,Private room,87,1,36,2023-10-20,2.91,0
+141,Listing 141,1062,Alice,North End,Private room,342,14,74,2023-03-02,1.34,118
+142,Listing 142,1138,Eva,Back Bay,Entire home/apt,431,5,69,2023-07-17,3.99,34
+143,Listing 143,1498,David,Beacon Hill,Entire home/apt,188,5,145,2023-10-22,1.55,197
+144,Listing 144,1592,Charlie,South End,Entire home/apt,405,10,127,2023-11-15,2.28,244
+145,Listing 145,1391,Alice,Dorchester,Entire home/apt,382,14,84,2023-10-29,0.06,58
+146,Listing 146,1674,Alice,South End,Entire home/apt,308,4,41,2023-12-10,0.36,324
+147,Listing 147,1418,David,Dorchester,Entire home/apt,210,6,99,2023-01-11,1.96,160
+148,Listing 148,1288,Charlie,North End,Entire home/apt,439,7,40,2023-03-03,2.4,178
+149,Listing 149,1378,Charlie,Dorchester,Private room,227,9,165,2023-11-29,3.0,205
+150,Listing 150,1772,Eva,Beacon Hill,Entire home/apt,59,1,33,2023-08-14,1.46,11
+151,Listing 151,1489,Charlie,Back Bay,Entire home/apt,310,6,16,2023-06-02,3.47,275
+152,Listing 152,1230,Charlie,Dorchester,Private room,456,7,164,2023-07-18,4.3,180
+153,Listing 153,1040,Charlie,Dorchester,Entire home/apt,187,3,152,2023-02-21,3.9,241
+154,Listing 154,1027,Bob,Back Bay,Private room,221,8,121,2023-09-17,0.2,215
+155,Listing 155,1134,Eva,Beacon Hill,Private room,435,5,75,2023-02-28,2.4,250
+156,Listing 156,1200,Alice,South End,Private room,62,9,86,2023-03-13,0.52,298
+157,Listing 157,1839,David,Dorchester,Entire home/apt,217,5,116,2023-05-28,1.21,125
+158,Listing 158,1779,Alice,Back Bay,Private room,179,9,105,2023-12-15,4.93,216
+159,Listing 159,1929,Eva,North End,Entire home/apt,133,10,85,2023-03-04,0.71,305
+160,Listing 160,1032,David,Back Bay,Entire home/apt,370,4,26,2023-11-06,2.49,284
+161,Listing 161,1047,Eva,North End,Entire home/apt,368,9,56,2023-08-31,3.09,184
+162,Listing 162,1502,Charlie,Beacon Hill,Shared room,150,5,30,2023-11-26,3.51,38
+163,Listing 163,1406,David,South End,Entire home/apt,378,10,133,2023-04-17,2.8,222
+164,Listing 164,1573,Charlie,Back Bay,Entire home/apt,322,9,167,2023-08-14,0.05,183
+165,Listing 165,1727,Alice,Dorchester,Private room,314,3,97,2023-11-09,1.63,177
+166,Listing 166,1804,Alice,Beacon Hill,Entire home/apt,448,4,11,2023-08-06,2.59,293
+167,Listing 167,1098,David,Back Bay,Entire home/apt,457,9,52,2023-08-29,0.44,339
+168,Listing 168,1683,David,Dorchester,Entire home/apt,87,10,198,2023-09-16,1.75,150
+169,Listing 169,1871,Eva,Back Bay,Entire home/apt,468,11,137,2023-09-19,0.17,125
+170,Listing 170,1725,Eva,North End,Entire home/apt,143,6,172,2023-01-05,0.39,300
+171,Listing 171,1986,Charlie,Back Bay,Entire home/apt,144,2,144,2023-09-18,1.98,307
+172,Listing 172,1546,David,Back Bay,Private room,354,7,153,2023-02-23,0.66,335
+173,Listing 173,1960,Alice,Back Bay,Entire home/apt,118,2,189,2023-02-16,2.84,233
+174,Listing 174,1738,Eva,Beacon Hill,Entire home/apt,367,11,121,2023-08-03,3.45,7
+175,Listing 175,1612,Eva,Back Bay,Private room,493,2,45,2023-06-26,4.0,340
+176,Listing 176,1942,Alice,Dorchester,Entire home/apt,285,11,63,2023-01-09,1.0,128
+177,Listing 177,1461,Eva,North End,Private room,483,1,129,2023-04-09,0.84,263
+178,Listing 178,1642,Charlie,North End,Entire home/apt,383,11,53,2023-01-20,0.52,156
+179,Listing 179,1768,David,Back Bay,Entire home/apt,422,11,106,2023-08-29,3.18,351
+180,Listing 180,1004,Alice,Beacon Hill,Entire home/apt,425,12,192,2023-03-02,3.53,357
+181,Listing 181,1217,David,Beacon Hill,Entire home/apt,186,11,50,2023-06-27,0.16,4
+182,Listing 182,1502,Eva,Dorchester,Entire home/apt,467,3,180,2023-12-04,4.68,85
+183,Listing 183,1766,Eva,Back Bay,Entire home/apt,125,6,35,2023-03-03,0.26,174
+184,Listing 184,1397,Alice,North End,Entire home/apt,84,8,114,2023-05-25,2.71,289
+185,Listing 185,1870,Charlie,Beacon Hill,Entire home/apt,50,9,25,2023-08-04,3.55,192
+186,Listing 186,1794,Bob,Back Bay,Entire home/apt,345,7,28,2023-01-03,4.35,310
+187,Listing 187,1392,Alice,Beacon Hill,Entire home/apt,369,4,148,2023-06-09,3.57,118
+188,Listing 188,1206,Bob,Beacon Hill,Entire home/apt,455,6,10,2023-08-15,4.01,217
+189,Listing 189,1014,Bob,North End,Entire home/apt,109,5,39,2023-09-26,1.7,113
+190,Listing 190,1857,Charlie,South End,Private room,369,8,10,2023-04-30,4.07,144
+191,Listing 191,1553,Bob,Dorchester,Entire home/apt,398,1,163,2023-03-30,0.4,25
+192,Listing 192,1891,Bob,Dorchester,Private room,377,1,112,2023-11-25,4.47,135
+193,Listing 193,1460,Charlie,North End,Private room,316,13,186,2023-03-09,2.74,302
+194,Listing 194,1690,Bob,Beacon Hill,Entire home/apt,410,11,38,2023-12-23,4.09,231
+195,Listing 195,1574,Bob,Back Bay,Private room,278,6,53,2023-04-08,2.26,75
+196,Listing 196,1863,Bob,Beacon Hill,Private room,319,10,97,2023-09-24,3.22,327
+197,Listing 197,1742,Alice,North End,Entire home/apt,365,12,54,2023-04-15,2.63,344
+198,Listing 198,1240,Alice,Dorchester,Entire home/apt,335,2,110,2023-11-19,3.66,301
+199,Listing 199,1563,Alice,Beacon Hill,Private room,340,5,151,2023-05-03,0.41,288
+200,Listing 200,1095,Charlie,Dorchester,Private room,262,1,149,2023-01-29,0.3,0
